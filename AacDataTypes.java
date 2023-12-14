@@ -16,11 +16,11 @@ public class AacDataTypes {
             Interfaces
             Arreglos
          */
-        int edad = 20;
-        String nombre = "Juan";
-        String apellido = "Perez";
-        String nombreCompleto = nombre + " " + apellido;
-        System.out.println("Hola, " + nombreCompleto + "!");
-        System.out.println("Tienes " + edad + " años.");
+        int variableInt = 10;
+        System.out.println("variable de tipo entero = " + variableInt);
+        // variableInt = 10
+        String variableString = "Hola";
+        System.out.println("variable de tipo String = " + variableString);
+        // variableString = "Hola"
     }
 }
