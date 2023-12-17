@@ -8,5 +8,8 @@ public class AagScanner {
         Scanner consola = new Scanner(System.in);
         var usuarioDos = consola.nextLine();
         System.out.println("Hola " + usuarioDos);
+        System.out.println("Bienvenido, escribe tu nombre: ");
+        var usuarioTres = consola.nextLine();
+        System.out.println("Hola " + usuarioTres);
     }
 }
