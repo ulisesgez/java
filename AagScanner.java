@@ -11,5 +11,6 @@ public class AagScanner {
         System.out.println("Bienvenido, escribe tu nombre: ");
         var usuarioTres = consola.nextLine();
         System.out.println("Hola " + usuarioTres);
+        consola.close(); // Close the Scanner object to release resources
     }
 }
