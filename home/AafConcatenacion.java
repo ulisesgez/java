@@ -1,4 +1,4 @@
-public class AaeConcatenacion {
+public class AafConcatenacion {
     public static void main(String[] args) {
         /*
          * Concatenación:

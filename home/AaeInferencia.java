@@ -1,4 +1,4 @@
-public class AadInferencia {
+public class AaeInferencia {
 
     public static void main(String[] args) {
         /*

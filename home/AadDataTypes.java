@@ -1,4 +1,4 @@
-public class AacDataTypes {
+public class AadDataTypes {
     public static void main(String[] args) {
         /*
         Data types:

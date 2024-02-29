@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AagScanner {
+public class AahScanner {
     public static void main(String[] args) {
         var usuarioUno = "Carlos";
         System.out.println("Hola " + usuarioUno);
