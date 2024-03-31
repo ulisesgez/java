@@ -18,5 +18,7 @@ public class AaiInferencia {
         System.out.println("variable de tipo double = " + variableDouble);
         var variableString = "Hola";
         System.out.println("variable de tipo String = " + variableString);
+        var variableChar = '\u0041';
+        System.out.println("variable de tipo char = " + variableChar);
     }
 }
