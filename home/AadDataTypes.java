@@ -30,6 +30,10 @@ public class AadDataTypes {
         System.out.println("variable de tipo long = " + variableLong);
         System.out.println("Valor minimo de un long: " + Long.MIN_VALUE);
         System.out.println("Valor maximo de un long: " + Long.MAX_VALUE);
+        float variableFloat = 10.5f;
+        System.out.println("variable de tipo float = " + variableFloat);
+        System.out.println("Valor minimo de un float: " + Float.MIN_VALUE);
+        System.out.println("Valor maximo de un float: " + Float.MAX_VALUE);
         String variableString = "Hola";
         System.out.println("variable de tipo String = " + variableString);        
     }
