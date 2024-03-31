@@ -24,7 +24,13 @@ public class AadDataTypes {
         System.out.println("Valor maximo de un short: " + Short.MAX_VALUE);
         int variableInt = 10;
         System.out.println("variable de tipo entero = " + variableInt);
+        System.out.println("Valor minimo de un int: " + Integer.MIN_VALUE);
+        System.out.println("Valor maximo de un int: " + Integer.MAX_VALUE);
+        long variableLong = 10;
+        System.out.println("variable de tipo long = " + variableLong);
+        System.out.println("Valor minimo de un long: " + Long.MIN_VALUE);
+        System.out.println("Valor maximo de un long: " + Long.MAX_VALUE);
         String variableString = "Hola";
-        System.out.println("variable de tipo String = " + variableString);
+        System.out.println("variable de tipo String = " + variableString);        
     }
 }
