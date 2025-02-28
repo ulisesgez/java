@@ -3,10 +3,6 @@ public class AacVariables {
         /*
          * Variables:
          * Las variables son espacios de memoria que se reservan para almacenar datos.
-         
-         
-         
-         
          */
         int edad = 20;
         String nombre = "Juan";
