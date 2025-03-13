@@ -1,4 +1,4 @@
-public class AacVariables {
+public class AacVariablesConstantes {
     public static void main(String[] args) {
         /*
          * Variable:
