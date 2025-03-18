@@ -8,11 +8,14 @@ public class AacVariablesConstantes {
          * Valores que se mantienen siempre de igual manera y que no dependen
          * de una asignacion para obtener e mismo.
          */
-        int edad = 20;
-        String nombre = "Juan";
-        String apellido = "Perez";
-        String nombreCompleto = nombre + " " + apellido;
-        System.out.println("Hola, " + nombreCompleto + "!");
-        System.out.println("Tienes " + edad + " años.");
+        int edad = 26;
+        long id = 1710769200000L;
+        double salario = 1500.00;
+        boolean hombre = true;
+        char sangre = 'A';
+        String nombre = "Ulises";
+        System.out.println("Hola, mi nombre es " + nombre + ", ");
+        System.out.println("tengo " + edad + " de edad,");
+        System.out.println("mi salario promedio es de " + salario + ",");
     }
 }
