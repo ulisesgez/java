@@ -17,5 +17,8 @@ public class AacVariablesConstantes {
         System.out.println("Hola, mi nombre es " + nombre + ", ");
         System.out.println("tengo " + edad + " de edad,");
         System.out.println("mi salario promedio es de " + salario + ",");
+        /*
+        String no es considerado un tipo de dato primitivo si no que es una clase.
+         */
     }
 }
