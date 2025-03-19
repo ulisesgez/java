@@ -8,15 +8,19 @@ public class AacVariablesConstantes {
          * Valores que se mantienen siempre de igual manera y que no dependen
          * de una asignacion para obtener e mismo.
          */
-        int edad = 26;
-        long id = 1710769200000L;
-        double salario = 1500.00;
-        boolean hombre = true;
-        char sangre = 'A';
-        String nombre = "Ulises";
-        System.out.println("Hola, mi nombre es " + nombre + ", ");
-        System.out.println("tengo " + edad + " de edad,");
-        System.out.println("mi salario promedio es de " + salario + ",");
+        String name = "Ulises";
+        int age = 26;
+        long id = 1000000000008L;
+        double averageGrade = 8.5;
+        boolean isEnrolled = true;
+        char gradeLevel = 'A';
+        
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
+        System.out.println("ID: " + id);
+        System.out.println("Average Grade: " + averageGrade);
+        System.out.println("Enrolled: " + isEnrolled);
+        System.out.println("Grade Level: " + gradeLevel);
         /*
         String no es considerado un tipo de dato primitivo si no que es una clase.
          */
